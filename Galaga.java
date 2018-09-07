@@ -1,4 +1,3 @@
-package br.com.galaga;
 import robocode.*;
 
 public class Galaga extends Robot {
